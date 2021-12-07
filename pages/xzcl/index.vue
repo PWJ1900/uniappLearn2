@@ -6,9 +6,7 @@
 </template>
 
 <script>
-import HeaderUse from "@/components/headerUse/header.vue"
 	export default {
-		components:{HeaderUse},
 		data() {
 			return {
 				
